@@ -1,0 +1,1 @@
+console.log("wrting in vishal.js");console.log("wrting with appendFile()")
